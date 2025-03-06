@@ -49,8 +49,8 @@ Implemented **reinforcement learning techniques**, including **Markov Decision P
 - **Project 2**: Gained experience in **game AI, adversarial search, and optimization**.  
 - **Project 3**: Developed skills in **reinforcement learning and MDP-based decision-making**.  
 
-## Author ✨  
-👨‍💻 **Nikhar Ramlakhan**  
+## Authors ✨  
+👨‍💻 **Nikhar Ramlakhan & Areyan Rastawan**  
 📚 **CS 471/571 - Introduction to Artificial Intelligence** | University of Oregon  
 📝 **Instructor:** Prof. Thanh Nguyen
 
